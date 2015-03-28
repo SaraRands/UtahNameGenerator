@@ -15,6 +15,7 @@ end characters are {|} [open curly bracket, pipe, close curly bracket].
 
 To run the runnable jar file UtahNameGenerator.jar from the command line, navigate to the folder that 
 contains the runnable jar and Utah2000-2013Spinner.txt, and type
+
     java -jar UtahNameGenerator.jar Utah2000-2013Spinner.txt
 
 The program will output a unique male and female Utah name.
