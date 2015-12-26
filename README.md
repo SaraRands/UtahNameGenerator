@@ -1,4 +1,4 @@
-# UtahNameGenerator
+# Utah Name Generator
 Generates a unique Utah name, using 2000-2014 Social Security Name data for Utah and a four-gram language model
 
 
