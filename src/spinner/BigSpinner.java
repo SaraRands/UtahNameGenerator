@@ -43,7 +43,7 @@ public class BigSpinner {
 		Scanner scanner = new Scanner(bis);
 		
 		// First line is "Males"
-		String trash = scanner.nextLine();
+		scanner.nextLine();
 		String threegram = null;
 		// Next is a series of list of fourgrams
 		String next = scanner.nextLine();
@@ -66,7 +66,7 @@ public class BigSpinner {
 			next = scanner.nextLine();
 		}
 
-		trash = scanner.nextLine();
+		scanner.nextLine();
 		// Series of lists of fourgrams
 		next = scanner.nextLine();
 		while (!next.equals(""))
@@ -87,7 +87,7 @@ public class BigSpinner {
 			next = scanner.nextLine();
 		}
 		// "Names"
-		trash = scanner.nextLine();
+		scanner.nextLine();
 		// Series of names
 		while (scanner.hasNextLine())
 		{

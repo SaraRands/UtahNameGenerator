@@ -1,20 +1,8 @@
 package spinner;
-// Left to decide:
-// Does the spinner work by 
-// determining the final letter, and then basing the next spin on the second letter?
-// Or by basing the next spin on letters 2-3-4 (1-2-3 of the next fourgram)?
-// If the latter the spinner's construction needs to change.
-// (Spinner is a map of 3-char strings to the fourgram,
-// the generate method givenChar needs to change to the 3-char string).
 
-// Also make sure cumprobs make sense.
-
-
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
-import java.util.TreeMap;
 
 public class Spinner {
 	

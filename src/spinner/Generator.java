@@ -1,9 +1,5 @@
 package spinner;
-import java.io.FileNotFoundException;
-import java.io.PrintWriter;
 import java.util.Set;
-import java.util.TreeSet;
-
 
 // The driver class
 
