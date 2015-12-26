@@ -93,6 +93,6 @@ The four-gram language model is in the file called Utah2000-2014Spinner.txt. Thi
 
 [Utah Boys Names video](http://www.youtube.com/watch?v=GXPrtJKPmB0)
 
-[Mormon Baby Names: Traditions and Trends by Hildie Westenhaver](http://nameberry.com/blog/mormon-baby-names-traditions-and-trends)
+[Mormon Baby Names by Hildie Westenhaver](http://nameberry.com/blog/mormon-baby-names-traditions-and-trends)
 
 [The Nayme Gaimme by Eric D. Snider](http://www.ericdsnider.com/snide/the-nayme-gaimme/)
