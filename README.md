@@ -5,7 +5,7 @@ Generates a unique Utah name, using 2000-2014 Social Security Name data for Utah
 Utah has a justified reputation for naming their babies unique and innovative names. This program takes in all of the names given to five or more Utah babies per year for 2000 - 2014, according to the [Social Security data](http://www.ssa.gov/oact/babynames/limits.html), converts the data into a [four-gram language model](http://en.wikipedia.org/wiki/N-gram), and uses that data to generate a new Utah name. If the name generated is the same as an existing name in the database, the name is rejected and another name is generated, to guarantee a unique name.
 
 ## How to Run the Utah Name Generator
-Download the folder and run the batch file at the command line by navigating to the downloaded folder and typing
+Download ZIP, extract files, and navigate to the downloaded folder at the command line. Run the batch file typing
 
 ```
 UtahNameGenerator.bat
