@@ -2,9 +2,10 @@
 Generates a unique Utah name, using 2000-2014 Social Security Name data for Utah and a four-gram language model
 
 
-Utah has a justified reputation for naming their babies unique and innovative names. This program takes in all of the names given to five or more Utah babies per year for2000 - 2014, according to the [Social Security data](http://www.ssa.gov/oact/babynames/limits.html), converts the data into a [four-gram language model](http://en.wikipedia.org/wiki/N-gram), and uses that data to generate a new Utah name. If the name generated is the same as an existing name in the database, the name is rejected and another name is generated, to guarantee a unique name.
-# How to Run the Utah Name Generator
-Download the folder and run the batch file by typing
+Utah has a justified reputation for naming their babies unique and innovative names. This program takes in all of the names given to five or more Utah babies per year for 2000 - 2014, according to the [Social Security data](http://www.ssa.gov/oact/babynames/limits.html), converts the data into a [four-gram language model](http://en.wikipedia.org/wiki/N-gram), and uses that data to generate a new Utah name. If the name generated is the same as an existing name in the database, the name is rejected and another name is generated, to guarantee a unique name.
+
+## How to Run the Utah Name Generator
+Download the folder and run the batch file at the command line by navigating to the downloaded folder and typing
 
 ```
 UtahNameGenerator.bat
@@ -87,7 +88,11 @@ The four-gram language model is in the file called Utah2000-2014Spinner.txt. Thi
 
 ## Links about Utah Names
 [The Utah Baby Namer](http://wesclark.com/ubn/)
+
 [Utah Girls Names video](http://www.youtube.com/watch?v=BfIehCrO4Zs)
+
 [Utah Boys Names video](http://www.youtube.com/watch?v=GXPrtJKPmB0)
+
 [Nameberry on Mormon Baby Names](http://nameberry.com/blog/mormon-baby-names-traditions-and-trends)
+
 [The Nayme Gaimme by Eric D. Snider](http://www.ericdsnider.com/snide/the-nayme-gaimme/)
