@@ -11,8 +11,8 @@ public class Spinner {
 	static final char start2 = '_';
 	static final char start3 = '`';
 	static final char end1 = '{';
-	static final char end2 = '|';
-	static final char end3 = '}';
+//	static final char end2 = '|';
+//	static final char end3 = '}';
 	
 	Map<String, List<FourGram>> spinner;
 		
