@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Java
+bin/
+*.class
+*.jar
+
+# Others you don’t want to track
+*.log
